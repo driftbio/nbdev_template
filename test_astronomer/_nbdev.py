@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"load_dataframe": "00_core.ipynb",
-         "create_data": "00_core.ipynb",
-         "train_model": "00_core.ipynb"}
+index = {"load_dataframe": "00_XGBoost.ipynb",
+         "create_data": "00_XGBoost.ipynb",
+         "train_model": "00_XGBoost.ipynb"}
 
 modules = ["core.py"]
 
